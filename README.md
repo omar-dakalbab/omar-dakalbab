@@ -1,7 +1,6 @@
-🚀 Frontend Developer | 3+ Years of Experience
+🚀 Software Engineer | 4+ Years of Experience
 
-With three years of experience as a frontend developer, I specialize in crafting responsive, high-performance user interfaces that seamlessly blend usability, accessibility, and aesthetics. My expertise extends across the full development lifecycle—from design and prototyping to deployment and optimization, ensuring top-tier digital experiences.
-
-Beyond frontend mastery, I have successfully delivered multiple freelancing projects, working with a diverse stack, including React.js, Next.js, Node.js, MongoDB, MySQL, Flutter, Firebase, and PHP. My commitment to clean code, scalability, and seamless UX/UI allows me to transform ideas into impactful digital solutions.
+With four years of experience in software engineering, I specialize in developing scalable, high-performance web and mobile applications. As both a frontend and backend developer, I cover the entire development stack—from user interfaces to backend logic and database management—ensuring seamless, optimized, and user-centric digital experiences.
+My expertise spans the full development lifecycle—design, development, deployment, and performance optimization—using a diverse tech stack, including React.js, Next.js, React Native, Flutter, Node.js, MongoDB, MySQL, Firebase, and PHP. I’ve successfully delivered multiple freelancing projects, focusing on clean code, scalability, and intuitive UX/UI to transform ideas into impactful solutions.
 
 Let’s build something incredible! 🚀✨

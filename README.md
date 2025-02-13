@@ -13,10 +13,13 @@ With **4+ years of experience** in software engineering, I specialize in buildin
 ✔ **UI/UX Focused** – Creating intuitive and engaging user interfaces.  
 
 ## 🛠 Tech Stack  
-🚀 **Frontend**: React.js, Next.js, React Native, Flutter, Tailwind CSS, Bootstrap, Ant Design, MUI
-⚡ **Backend**: Node.js, PHP, Go, 
-🗄 **Databases**: MongoDB, MySQL, Firebase
-📦 **Deployment**: VPS, App Store, Play Store, Linux and Windows servers
+🚀 **Frontend**: React.js, Next.js, React Native, Flutter, Tailwind CSS, Bootstrap, Ant Design, MUI.
+
+⚡ **Backend**: Node.js, PHP, Go.
+
+🗄 **Databases**: MongoDB, MySQL, Firebase.
+
+📦 **Deployment**: VPS, App Store, Play Store, Linux and Windows servers.
 
 ## 🎯 Why Work With Me?  
 ✅ Proven track record in delivering high-quality **freelance and client projects**  

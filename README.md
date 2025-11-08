@@ -32,7 +32,7 @@ I love solving tough technical problems, optimizing performance, and turning com
 ---
 
 ### 💼 Professional Experience
-**🚧 Werwigo | Backend Developer (2025)**  
+**🚧 Werwigo | Backend Developer (2024-2025)**  
 Developed scalable backend services, event-driven pipelines, and caching for high-throughput mobile systems.  
 Optimized media delivery via Cloud CDN & Pub/Sub; automated CI/CD with GitHub Actions.
 
@@ -40,7 +40,7 @@ Optimized media delivery via Cloud CDN & Pub/Sub; automated CI/CD with GitHub Ac
 Built production-grade mobile apps with Flutter and Node.js, deployed on Google Cloud Run.  
 Implemented user auth, subscriptions, and analytics with MongoDB + Firebase integration.
 
-**💻 Teşvik Rotası | Frontend Developer (2022–2024)**  
+**💻 Teşvik Rotası | Frontend Developer (2022–2025)**  
 Architected modular React components and optimized UI/UX for a CRM platform.  
 Improved scalability and performance through reusable code and clean architecture.
 

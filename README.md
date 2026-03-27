@@ -8,7 +8,7 @@
 
 ## About
 
-4+ years shipping full-stack and mobile applications across fintech, edtech, travel, and loyalty platforms. I work across the entire stack — from REST APIs and cloud infrastructure to React Native apps on the App Store. I use **Cursor** and **Claude Code** heavily in my workflow to move fast without cutting corners.
+4+ years shipping full-stack and mobile applications across fintech, edtech, travel, and loyalty platforms. I work across the entire stack — from REST APIs and cloud infrastructure to React Native apps on the App Store. I use **Cursor** and **AI-assisted development** heavily in my workflow to move fast without cutting corners.
 
 Currently: Co-Founder & CTO at **Skooly** (school management SaaS) and open to new opportunities in Dubai or remote.
 
@@ -29,7 +29,7 @@ Currently: Co-Founder & CTO at **Skooly** (school management SaaS) and open to n
 `MongoDB` `PostgreSQL` `Firestore` `Redis` `Supabase` `Firebase` `Prisma ORM`
 
 **AI / LLM**
-`LangChain` `OpenAI API` `Claude API` `RAG Pipelines` `Prompt Engineering`
+`LangChain` `OpenAI API` `Anthropic API` `RAG Pipelines` `Prompt Engineering`
 
 **Cloud & DevOps**
 `Google Cloud Run` `Cloud Pub/Sub` `Cloud CDN` `AWS S3` `Docker` `GitHub Actions` `VPS` `EAS Build`
@@ -38,7 +38,7 @@ Currently: Co-Founder & CTO at **Skooly** (school management SaaS) and open to n
 `App Store` `Google Play` `RevenueCat` `Expo Router` `Live Activities` `Push Notifications`
 
 **AI Dev Tools**
-`Cursor` `Claude Code` `GitHub Copilot`
+`Cursor` `GitHub Copilot`
 
 ---
 
@@ -59,7 +59,7 @@ Scalable backend APIs on Google Cloud Run with 99.9% uptime; reduced API respons
 
 ### 🎓 [LetsWork](https://tryletswork.com) — Freelance Marketplace
 Full-stack freelance platform built in 4 days. Job posting, proposals, contracts, real-time messaging, and AI chatbot.
-`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Prisma` `Claude API`
+`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Prisma` `Anthropic API`
 
 ### 🍕 YumTrux — Food Truck Marketplace
 5-app monorepo connecting customers with food trucks via live maps, real-time orders, and Stripe payments.
